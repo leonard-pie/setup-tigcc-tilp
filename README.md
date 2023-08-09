@@ -1,4 +1,4 @@
-# Set up TIGCC compiler and TILP on Debian 11 Bullseye
+# Setup TIGCC compiler and TILP on Debian 11 Bullseye
 This is a small guide on how to set up [TIGCC](http://tigcc.ticalc.org/) (compiler) and [TILP](http://lpg.ticalc.org/prj_tilp/) (TI Linking Program) on debian 11 bullseye.
 
 **TIGCC** (from "TI" and "GCC") is a software development environment which allows developers to program and compile A68K assembly, GNU assembly, and C code for the Motorola 68000 series Texas Instruments graphing calculators (TI-89 (Titanium), TI-92 Plus and Voyage 200, as well as experimental support for the TI-92 with the Fargo shell). TIGCC is licensed under the GNU General Public License. 
