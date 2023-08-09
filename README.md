@@ -48,6 +48,7 @@ sudo ./install_tilp.sh
 Leave the default by pressing enter.
 At this point everything should be set up.
 
+
 ## Example compiling and transferring a C file on a TI-89
 Now let's try to create a Hello World file, compile it and execute it on a TI-89 calculator.
 
